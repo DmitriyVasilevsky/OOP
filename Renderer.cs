@@ -8,7 +8,6 @@ namespace OOP
         {
             Console.SetCursorPosition(PositionX, PositionY);
             Console.Write(player);
-
         }
     }
 }
